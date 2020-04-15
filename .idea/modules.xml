@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/React-Express-Template.iml" filepath="$PROJECT_DIR$/.idea/React-Express-Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Image-GAN.iml" filepath="$PROJECT_DIR$/.idea/Image-GAN.iml" />
     </modules>
   </component>
 </project>

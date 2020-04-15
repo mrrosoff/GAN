@@ -6,3 +6,7 @@ node_modules
 # Output Files
 
 dist
+
+# Idea Files
+
+.idea/workspace.xml
