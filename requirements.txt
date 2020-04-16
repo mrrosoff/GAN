@@ -1,0 +1,11 @@
+opencv-python
+opencv-contrib-python
+
+numpy
+matplotlib
+
+iPython
+jupyter
+
+torch
+tensorflow
