@@ -10,3 +10,12 @@ dist
 # Idea Files
 
 .idea/workspace.xml
+
+# Python Files
+
+venv
+.ipynb_checkpoints
+
+# Data Files
+
+img_align_celeba

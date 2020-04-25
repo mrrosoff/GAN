@@ -2,10 +2,12 @@ opencv-python
 opencv-contrib-python
 
 numpy
+pandas
 matplotlib
 
 iPython
 jupyter
 
 torch
+torchvision
 tensorflow
