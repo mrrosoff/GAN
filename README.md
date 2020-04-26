@@ -1,4 +1,4 @@
-# Project Name
+# Image-GAN
 
 ### Project Short Description
 
