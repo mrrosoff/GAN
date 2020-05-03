@@ -1,12 +1,3 @@
-# Node Files
-
-package-lock.json
-node_modules
-
-# Output Files
-
-dist
-
 # Idea Files
 
 .idea/workspace.xml
@@ -15,7 +6,3 @@ dist
 
 venv
 .ipynb_checkpoints
-
-# Data Files
-
-img_align_celeba
