@@ -10,3 +10,7 @@ jupyter
 
 torch
 torchvision
+
+pillow
+tqdm
+requests
