@@ -4,15 +4,13 @@
 
 ## About Project
 
-This project follows three implementations of Generative Adversarial Networks to create images based on three datasets. In each notebook, we run the GAN with each dataset, and report on the effectiveness of the network to produce images that resemble the training set.
+This project follows three implementations of Generative Adversarial Networks to create images based on three datasets. In the notebook, we run three unique GANs with each dataset, and report on the effectiveness of the network to produce images that resemble the training set.
 
 Our training image sets are:
 
 1. Mountains
-2. TBD
-3. TBD
-
-Open the jupyter notebooks to see our conclusions and results.
+2. Dogs
+3. Faces
 
 ## Installation
 
