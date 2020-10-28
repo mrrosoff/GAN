@@ -1,6 +1,6 @@
 # GAN
 
-### Usage and Implemenation of Generative Adversarial Networks
+### Usage and Implementation of Generative Adversarial Networks
 
 ## About Project
 
