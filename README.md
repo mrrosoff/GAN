@@ -1,6 +1,6 @@
-# Image-GAN
+# GAN
 
-### Implementation of Three Genearative Adversarial Networks To Create Images
+### Usage and Implementation of Generative Adversarial Networks
 
 ## About Project
 
