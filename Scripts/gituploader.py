@@ -6,9 +6,9 @@ from tqdm import tqdm
 from git import Repo
 
 
-def main(target_dir):
+def main(repo_dir, target_dir):
 
-    repo = Repo("../GAN").git
+    repo = Repo(repo_dir).git
 
     for index, filename in tqdm(enumerate(os.listdir(target_dir))):
 
@@ -28,10 +28,10 @@ def main(target_dir):
 
 if __name__ == '__main__':
 
-    if len(sys.argv) < 2:
+    if len(sys.argv) < 3:
 
-        print('Usage: python3 {} [Upload Directory]'.format(sys.argv[0]))
+        print('Usage: python3 {} [Base Repo Directory] [Upload Directory]'.format(sys.argv[0]))
 
     else:
 
-        main(sys.argv[1])
+        main(sys.argv[1], sys.argv[2])
