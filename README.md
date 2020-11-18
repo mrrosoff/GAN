@@ -12,13 +12,14 @@ This project follows three implementations of Generative Adversarial Networks to
 
 2. Image Colorization
 
-WIP
+This project follows implemenation of a Generative Adversarial Network to colorize greyscale images.
 
 ## Installation
 
 Begin by cloning the repository. Then, create a virtualenv.
 
 ```bash
+git clone --depth=1 https://github.com/mrrosoff/GAN/
 sudo apt-get install python3
 sudo apt-get install virtualenv
 ```
