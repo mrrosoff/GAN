@@ -12,6 +12,7 @@ torch
 torchvision
 
 pillow
+skimage
 
 tqdm
 requests
