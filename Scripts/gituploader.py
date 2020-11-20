@@ -16,14 +16,14 @@ def main(repo_dir, target_dir):
 
             repo.add(target_dir + "/" + filename)
 
-            if index != 0 and index % 50 == 0:
+            if index != 0 and index % 2000 == 0:
 
-                repo.commit("-m", "Add Images {}".format(index // 50))
+                repo.commit("-m", "Add Images {}".format(index // 2000))
                 repo.push("origin", "master")
 
         except Exception as e:
 
-            print('Image {} Failed: {}'.format(filename, str(e)))
+            print('Bucket {} Failed: {}'.format(index // 2000, str(e)))
 
 
 if __name__ == '__main__':
