@@ -1,18 +1,19 @@
 opencv-python
 opencv-contrib-python
 
-numpy
+numpy==1.19.3
 pandas
 matplotlib
 
 iPython
 jupyter
 
-torch
-torchvision
+torch===1.7.0+cu110
+torchvision===0.8.1+cu110
+torchaudio===0.7.0
 
 pillow
-skimage
+scikit-image
 
 tqdm
 requests
