@@ -2,7 +2,7 @@
 
 ### Usage and Implementation of Generative Adversarial Networks
 
-## About
+## About Project
 
 The repository is a host of both GAN implemenations used to complete varying tasks as well as an image dataset for said implemenations. The following is a list of current GAN projects in the repository.
 
